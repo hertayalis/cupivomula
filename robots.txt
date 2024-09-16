@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://cupivomula.netlify.app/sitemap.xml
